@@ -1,0 +1,8 @@
+{
+  "name": "sni-relay",
+  "version": "1.1.0",
+  "type": "module",
+  "description": "Serverless relay for Vercel (Node.js runtime, 128MB memory)",
+  "private": true,
+  "license": "MIT"
+}
